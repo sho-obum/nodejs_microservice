@@ -5,7 +5,8 @@ A scalable e-commerce application built using microservices architecture, powere
 
 ## Architecture Overview
 
-![Microservices Architecture](D:\ecommerce_microservice\diag2.png)
+![diag2](https://github.com/user-attachments/assets/8933ab40-03f0-4540-9b12-03e73bb05d8b)
+
 
 The application consists of three independent microservices:
 
